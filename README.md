@@ -13,8 +13,14 @@ Oportunidades de colaboração em projetos interessantes.
 Aprendizado e feedback construtivo.
 
 ### 🙋🏻‍♂️ como me encontrar:
-[Linkedin](www.linkedin.com/in/deverson-freitas)    
-[email](dewesonfreitas00@gmail.com)
+[Linkedin](https://www.linkedin.com/in/deverson-freitas/)    
+[email](mailto:dewesonfreitas00@gmail.com)
 
 
 
+[![wakatime](https://wakatime.com/badge/user/018c4f01-795c-4f05-99cd-cc28f12a2478.svg)](https://wakatime.com/@018c4f01-795c-4f05-99cd-cc28f12a2478)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deverson-Freitas&show_icons=true&theme=transparent)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deverson-Freitas&layout=compact)
